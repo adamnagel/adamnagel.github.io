@@ -3,9 +3,6 @@ title: "The Westfjords of Iceland"
 header:
   image: /assets/images/2015-06-27-the-westfjords-of-iceland/header.jpg
   caption: "Heather marches into the mist, with a 1-mile-high cliff on the left. Photo credit: Adam Nagel"
-
-categories:
-  - Travel
 ---
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
