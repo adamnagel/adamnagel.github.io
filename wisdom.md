@@ -1,7 +1,6 @@
 ---
-permalink: /wisdom/
+layout: page
 title: "Wisdom"
-toc: false
 ---
 
 Peculiar travel suggestions are dancing lessons from God.
