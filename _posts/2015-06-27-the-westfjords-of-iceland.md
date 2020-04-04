@@ -23,7 +23,7 @@ At every turn, the sheep of Iceland are watching.
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/19jun2.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/19jun3.jpg){:.lead data-width="800" data-height="100"}
 
-# 20 Jun3 2015
+# 20 June 2015
 ## 10am: Látrabjarg Bird Cliffs
 A hanging glacial valley stands high above the ocean. Its edges rise sharply before ending in sheer cliffs up to 400 meters tall. They look like the world's boldest bicycle ramps.
 
