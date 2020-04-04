@@ -8,23 +8,6 @@ toc: true
 toc_label: "Itinerary"
 categories:
   - Travel
-
-20jun1:
-- url: /assets/images/2015-the-westfjords-of-iceland/20jun1-1.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/20jun1-1.jpg
-- url: /assets/images/2015-the-westfjords-of-iceland/20jun1-2.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/20jun1-2.jpg
-- url: /assets/images/2015-the-westfjords-of-iceland/20jun1-3.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/20jun1-3.jpg
-
-20jun2:
-- url: /assets/images/2015-the-westfjords-of-iceland/20jun2-1.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/20jun2-1.jpg
-- url: /assets/images/2015-the-westfjords-of-iceland/20jun2-2.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/20jun2-2.jpg
-- url: /assets/images/2015-the-westfjords-of-iceland/20jun2-3.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/20jun2-3.jpg
-
 ---
 # 19 June 2015: Breiðafjörður
 ***3:30pm***
