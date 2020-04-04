@@ -48,3 +48,27 @@ Seriously, people standing near the foot of the falls looked like ants standing 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun2-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun2-2.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun2-3.jpg){:.lead data-width="800" data-height="100"}
+
+## 8pm: Sailing into the Wild
+***Veiðileysufjörður***
+
+"Where are you planning to go?" our Austrian shipmate asked us once we were ashore in Veiðileysufjörður, 4 lone humans on a remote fjord in the middle of nowhere.
+
+"To Hornvik tomorrow for a couple nights, then to Hlöðuvík..."
+
+"No, you cannot cross there," she interjected. "It's impassible with ice and snow. Did you talk with the information office in Ísafjörður?"
+
+The ferry boat sailed into the distance.
+
+Crap.
+
+We had barely arrived in Ísafjörður in time to catch the 5pm ferry at all, much less visit the information office. Now we wondered if we'd gotten ourselves in over our heads. The mountains were already taller and more snow-covered than we'd expected. Now this news.
+
+After sharing the alternate route they had planned, which included two extra mountain crossings (one of which hadn't been crossed yet this year), our Austrian friends marched off to Hafnarskarð Pass, which was not just completely covered in clouds, but actually had clouds billowing down its slopes.
+
+So they think they'll be okay with their new plan, but they're from AUSTRIA. Austria is all MOUNTAINS.
+
+We set up our campsite, start making dinner, and try to enjoy the view. And begin working on a strategy.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun3-2.jpg){:.lead data-width="800" data-height="100"}
