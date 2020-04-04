@@ -1,7 +1,7 @@
 ---
 title: "Going to Alaska"
-categories:
-  - Travel
+categories: [Travel]
+layout: post
 ---
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}

@@ -1,6 +1,9 @@
 ---
 title: "About"
+layout: about
 ---
+
+<!--author-->
 
 `yearzero.us` is named for one of my favorite albums.
 

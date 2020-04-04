@@ -1,7 +1,7 @@
 ---
 title: "What I Know About Working on DARPA Programs"
-categories:
-  - Research
+categories: [Research]
+layout: post
 ---
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
