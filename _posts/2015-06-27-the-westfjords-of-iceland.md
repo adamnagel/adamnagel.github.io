@@ -4,11 +4,12 @@ header:
   image: /assets/images/2015-06-27-the-westfjords-of-iceland/header.jpg
   caption: "Heather marches into the mist, with a 1-mile-high cliff on the left. Photo credit: Adam Nagel"
 
-toc: true
-toc_label: "Itinerary"
 categories:
   - Travel
 ---
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 # 19 June 2015: Breiðafjörður
 ***3:30pm***
 

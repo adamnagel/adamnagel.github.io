@@ -1,10 +1,10 @@
 ---
 title: "Going to Alaska"
-toc: true
-toc_label: "Table of Contents"
 categories:
   - Travel
 ---
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 Heather and I have been to Alaska twice. We love it. Here are our tips.
 

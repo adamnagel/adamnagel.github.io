@@ -1,10 +1,10 @@
 ---
 title: "What I Know About Working on DARPA Programs"
-toc: true
-toc_label: "Table of Contents"
 categories:
   - Research
 ---
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 Having worked on a few [DARPA](https://www.darpa.mil/) programs, I thought I would share what I know about how to apply to work on one.
 
