@@ -9,14 +9,6 @@ toc_label: "Itinerary"
 categories:
   - Travel
 
-19jun:
-- url: /assets/images/2015-the-westfjords-of-iceland/19jun1.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/19jun1.jpg
-- url: /assets/images/2015-the-westfjords-of-iceland/19jun2.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/19jun2.jpg
-- url: /assets/images/2015-the-westfjords-of-iceland/19jun3.jpg
-  image_path: /assets/images/2015-the-westfjords-of-iceland/19jun3.jpg
-
 20jun1:
 - url: /assets/images/2015-the-westfjords-of-iceland/20jun1-1.jpg
   image_path: /assets/images/2015-the-westfjords-of-iceland/20jun1-1.jpg
@@ -43,7 +35,9 @@ To get to the Westfjords, you have to leave Iceland's Ring Road, the primary rou
 
 At every turn, the sheep of Iceland are watching.
 
-{% include gallery Photo Credit: Adam Nagel" class="full" id="19jun"%}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/19jun1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/19jun2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/19jun3.jpg){:.lead data-width="800" data-height="100"}
 
 # 20 Jun3 2015
 ## 10am: Látrabjarg Bird Cliffs
@@ -55,7 +49,9 @@ The peninsula is extremely remote, a tough 1.5-hour drive from our campground ov
 
 Heather can't resist a selfie session with a puffin.
 
-{% include gallery Photo Credit: Adam Nagel" class="full" id="20jun1"%}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/20jun1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/20jun1-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/20jun1-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 4pm: Race to Ísafjörður
 Never believe what an Icelander from the Westfjords tells you about travel time.
@@ -68,4 +64,6 @@ When you need to cover a lot of ground, you sometimes have to skip things along 
 
 Seriously, people standing near the foot of the falls looked like ants standing under a shower.
 
-{% include gallery Photo Credit: Adam Nagel" class="full" id="20jun2"%}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/20jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/20jun2-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-the-westfjords-of-iceland/20jun2-3.jpg){:.lead data-width="800" data-height="100"}
