@@ -47,9 +47,6 @@ A rare Yamaha sportbike in Viñales. Photo Credit: Adam Nagel
 
 As with everything in Cuba, the motorcycles and their locations are obscenely photogenic.
 
-{% include gallery caption="350cc Jawas in “Red Style” and “Black Style” in Havana. Photo Credit: Adam Nagel" class="full" %}
-{% include gallery id="gallery2" caption="A 250cc MZ and a 100cc Suzuki 2-stroke in Havana. Photo Credit: Adam Nagel" class="full" %}
-
 ![Red Style 350cc Jawa in Havana. Photo Credit: Adam Nagel](/assets/images/2017-03-MotorcyclesOfCuba-5432.jpg)
 {:.lead data-width="800" data-height="100"}
 Red Style 350cc Jawa in Havana. Photo Credit: Adam Nagel
