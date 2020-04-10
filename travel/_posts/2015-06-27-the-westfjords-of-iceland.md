@@ -72,3 +72,65 @@ We set up our campsite, start making dinner, and try to enjoy the view. And begi
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun3-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun3-2.jpg){:.lead data-width="800" data-height="100"}
+
+# 21 June 2015
+## 8:30am Lessons from the Swiss
+***Veiðileysufjörður***
+Things said by the Swiss man who hiked into our fjord late last night:
+
+"I passed your Austrian friends. They want me to tell you that the way from Hornvik to Hlöðuvik is open. We crossed three days ago."
+
+"The pass is a bit tricky, because you will not cross in the usual place. Do you have a GPS? I can give you the coordinates."
+
+"You must find this ridge here, then slowly walk down until you can see the path below, across the snowfield. You won't be able to see it from the top."
+
+"Your map doesn't look the same as mine."
+
+"You must be careful when you come over the snow, because if you're too far north, then you come out over the cliff."
+
+"Are you sure that your GPS doesn't support coordinates in Decimal Minutes?"
+
+"Some of the snow bridges over the rivers are getting unstable. It would really be a shame to fall in."
+
+"Do you have binoculars?"
+
+"No?"
+
+"Really good eyesight?"
+
+So it sounds like the pass is open, but that's according to a man from Switzerland. Switzerland is all mountains.
+
+We'll find out in about 3 days time when we get to that mountain pass. Until then, we'll have plenty of time to worry about it. Today we tackle our first mountain pass: Hafnarskarð.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun1.jpg){:.lead data-width="800" data-height="100"}
+
+## 12:00pm First Pass: Hafnarskarð
+***Hafnarskarð***
+
+The fog is so thick, and the snow fields so long, that by the time we reach the top of the pass the only things that can be seen are your partner and a set of footprints leading uphill into oblivion.
+
+Hornstrandir consists of several fjords, each unique. Traveling from one to another means traversing the mountains in between. Our itinerary includes visits to 5 of them.
+
+As we begin our first mountain crossing, we see that the slopes are covered by clouds, just as they were yesterday. The trail is marked by cairns (tall stacks of rocks) that guide the way at intervals of about 100 meters. The first few miles are clear, and we can see pretty well back into Veiðileysufjörður, even though we can't see the upper parts of the slope we're climbing. Some small snowfields bridge streams, and we cross them cautiously.
+
+Several hours in, we begin to lose visibility as we enter the clouds. The snowfields grow in size, until we feel as if we're walking from rocky island to rocky island across ever-extending patches of snow.
+
+Before long, the fog is so thick that we cannot see the next islands at all. In some areas, only the footprints of our Swiss and Austrian friends are visible to guide us.
+
+No sky, no ground, no rocks, no markers, no other people.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 5:00pm Topping Out and Heading Down
+***Hafnarskarð***
+
+The top of the pass comes as a relief. The final snowfield took over 30 minutes to traverse, most of it at a sharp uphill angle. Out of the mist comes a huge pile of rocks: the cairn marking the top of the pass. We take a break for lunch, which includes Goo Goo Clusters that we brought from our home in Nashville.
+
+The descent on the other side of the pass is nearly as steep and just as foggy. But just 30 minutes into our descent, the fog lifts and we get a clear view into the fjord, including a glimpse of the Horn itself, the peninsula that we'll explore all day tomorrow. Its sloping cliffs are exotic and alluring.
+
+The fog returns within an hour and doesn't lift for the rest of the trip into Hornvik. Once we reach the valley, it has a magical, mysterious feel to it.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-3.jpg){:.lead data-width="800" data-height="100"}
