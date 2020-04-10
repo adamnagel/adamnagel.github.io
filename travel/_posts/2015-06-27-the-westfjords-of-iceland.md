@@ -267,3 +267,16 @@ Hælvik is a crescent-shaped bay, consisting of 4 glacial valleys arranged in a 
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun4-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun4-2.jpg){:.lead data-width="800" data-height="100"}
+
+# 24 June 2015: Staying Put
+***Hlöðuvík***
+
+Backpacking sometimes turns into an obligation, a need to travel on to the next site because it's on the route you selected.
+
+After 2 days in the gloomy (but beautiful) Hornvík to the east, we decide to stay put and enjoy our spot in Hlöðuvík for a day. We eat when we're hungry, sleep when we're tired, and read books while we're awake.
+
+We haven't lost sight of the sun for well over 30 hours. Not to clouds, sunsets, or landscape obstructions.
+
+Good thing we packed sunscreen.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/24jun1.jpg){:.lead data-width="800" data-height="100"}
