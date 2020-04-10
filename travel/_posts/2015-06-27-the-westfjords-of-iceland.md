@@ -76,6 +76,7 @@ We set up our campsite, start making dinner, and try to enjoy the view. And begi
 # 21 June 2015
 ## 8:30am Lessons from the Swiss
 ***Veiðileysufjörður***
+
 Things said by the Swiss man who hiked into our fjord late last night:
 
 "I passed your Austrian friends. They want me to tell you that the way from Hornvik to Hlöðuvik is open. We crossed three days ago."
@@ -134,3 +135,77 @@ The fog returns within an hour and doesn't lift for the rest of the trip into Ho
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-2.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-3.jpg){:.lead data-width="800" data-height="100"}
+
+# 22 June 2015
+## 8:00am Morning in Hornvik
+***Hornvik***
+
+"Vik means bay," explains the Norwegian man. "And horn is a... like..."
+
+He places his hand above his head like a horn and pauses, searching his memory.
+
+"Oh, it's the same in English, yes?"
+
+Each campground in Hornstrandir becomes a small community for a day, and each citizen is known by his nationality. With the Norwegian man we discuss our Austrian friends, and we pass on the advice of the Swiss man when he mentions that they're going over the pass to Hlöðuvik. He gives us some river-crossing advice for our day trip to the Horn, and we head out.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun1.jpg){:.lead data-width="800" data-height="100"}
+
+## 10:00am: River Crossing
+***Hornvik***
+
+A long stroll across the sandy valley leads to our first Icelandic river crossing.
+
+Rivers are the most dangerous aspect of Arctic hiking, both because they are very cold (snow or glacier melt) and because it can be hard to judge their depth. The best strategy is to find the widest section of the waterway. Fortunately, this river has a sandy bottom, and we cross barefooted so that we have dry boots on the other side.
+
+Spending a minute knee-deep in 32.1-degree water is more effective than coffee, and it stretches the vocal cords too.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 11:00am: Steinþors-standur
+***Hornvik***
+
+Steinþór was a respected man in Hornvik. The residents often turned to him to resolve disputes.
+
+One day, he was walking in the valley and encountered a polar bear. Because he didn't have his atgeir (a weapon that resembles a spear with an axe blade), he climbed this standur (a free-standing rock formation). The polar bear circled the base of the rock, waiting for its chance.
+
+His wife saw what was happening, fetched his atgeir from their home, and rushed to the standur. When she got close, the bear turned his attention to her. Steinþór rushed down to his wife, grabbed the atgeir, and slew the bear just as it reached them.
+
+-- As told to me by the park ranger. "It has kind of a Hollywood ending," he added, "and polar bears rarely make it down here. We had them in 1963, 1972, and 2011."
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun3.jpg){:.lead data-width="800" data-height="100"}
+
+## 3:00pm Hornbjarg
+***Hornbjarg***
+
+To paraphrase our Norwegian friend, "bjarg" means "cliff", and you already know what a horn is. Hornbjarg is at the very northern end of the Horn peninsula, and the top destination for most Hornstrandir hikers. A high, hanging glacial valley has sharp cliff edges that stand hundreds of meters above the sea. The cliffs are populated by thousands of sea birds.
+
+At the top of Hornbjarg, we indulge in a tundra nap while looking out over Hornvik. By the time we begin stirring again a couple of hours later, fog is rolling in over the peninsula. We gather our things and make for Miðfell, a low peak in the center of the peninsula.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun4-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun4-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 4:00pm: Miðfell
+***Hornbjarg***
+
+Miðfell is a high ridge between two glacial valleys on the Horn peninsula. In person, it's more like two cliffs glued together, with a narrow walkway on top. And each cliff is STEEP.
+
+With the foggy weather, we don't get to enjoy views from the top, but the bird cliffs pick up in intensity on the other side. Unseen thousands of birds squawk down below. The occasional kittiwake pops up above the cliff rim, cackles loudly, and disappears again below. It feels like they're playing pranks on us.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun5-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun5-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 10:00pm: Back to Camp; Ranger Talk
+***Hornvik***
+
+With another river crossing and a long walk across the dunes, we're back in camp.
+
+As we walk up, the park ranger is waiting for us outside his hut. He already knows that we're from Tennessee (word gets around camp) and asks about our itinerary. Turns out he went over the pass from Hlöðuvik just the day before, and echoed the Swiss man's advice on making it through.
+
+We end up talking for 2 hours about the nature reserve and the arctic foxes that it was created to protect, the legal aspects of protected land in Iceland, and the history of the area. His grandfather was born in a house on the Horn, just across the bay. He's working on a management proposal for dealing with the increased tourism to the reserve. For most of the year, he's the only ranger.
+
+I wish I had taken his portrait. He was as much a part of Hornstrandir as the foxes, the fjords, and the sea.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun6-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun6-2.jpg){:.lead data-width="800" data-height="100"}
+
