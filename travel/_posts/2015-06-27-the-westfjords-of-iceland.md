@@ -280,3 +280,71 @@ We haven't lost sight of the sun for well over 30 hours. Not to clouds, sunsets,
 Good thing we packed sunscreen.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/24jun1.jpg){:.lead data-width="800" data-height="100"}
+
+# 25 June 2015
+## 2:30pm Bound for Heysteyri
+***Kjaransvíkurskarð***
+
+One last pass to tackle. This time we're going to Hesteyri, where we'll have our boat pickup tomorrow. With the extra day we spent in Hlöðuvík enjoying the nice weather, we have to skip seeing the western end of the peninsula. It gives us an excuse to return.
+
+These passes are starting to get routine, but the cloudless skies bring an absolutely unrelenting sun, and keeping your temperature regulated can be difficult. When the air is calm, it feels quite warm, but the breezes are strong and, since they blow over snowfields, can be chilly.
+
+On the final leg of the descent to Hesteyri, we encounter an enormous snowfield. It stretches down the hill, and increases in steepness, such that we can't even see the middle section. It takes about 30 minutes of slow effort to safely descend, but with the soft marsh at the bottom, we wonder if sliding down would really be so bad.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/24jun1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-3.jpg){:.lead data-width="800" data-height="100"}
+
+## 6:00pm: The Old Doctor's House
+***Heysteyri***
+
+When the house was first built in 1901, people traveled from all over Hornstrandir just to come and look at the bathtub. It was the first one on the peninsula.
+
+These days, Hrólfur runs a guest house and cafe here. We booked accommodation with him for our last night, figuring we could use the shower and home-cooked meal. He greets us warmly and whips up some coffee, then we spend the afternoon talking about the history of the area, our home countries, and the surge in Icelandic tourism. Ísafjörður, the town across the bay and the biggest in the westfjords, is receiving a 5,000-passenger cruise ship tomorrow, and everybody seems uncertain about how it will go. Ísafjörður itself has a population of only 3,000. They're receiving 63 cruise ships this summer, although most are much smaller.
+
+Before long, a curious Arctic fox trots up to the porch, politely posing for photos while waiting for food scraps.
+
+Dinner is lamb stew, and we have two helpings. Three helpings of bread. And don't skip dessert. A chilly after-dinner walk to the old whaling station gets us ready for bed, and it doesn't take long at all to get to sleep.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun2-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun2-3.jpg){:.lead data-width="800" data-height="100"}
+
+# 26 June 2015
+## 8:00am: Morning in Hesteyri
+***Heysteyri***
+
+Showers and breakfast are incredible luxuries. Bread does not last long in our presence.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun1-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 9:00am: The Ferry Back to Ísafjörður
+***Heysteyri***
+
+It doesn't take long to become attached to a place. The ruggedness and beauty of Hornstrandir are calming and invigorating in equal parts, and we're reluctant to hop onto the ferry back to Ísafjörður and civilization.
+
+For a week, Hornstrandir felt like a small community. You talk to everyone you encounter, sharing information about the trails and discussing other places you've traveled. The energy of summer and adventure is in the air.
+
+On our ferry home we meet a group of French backpackers who detoured around the pass at Skálarkambur. Their detour included a timed crossing under a seaside cliff, which involved finding and following a submerged sandbar and wading in seawater up to their hips for over 5 minutes. We were glad to have better information on the pass from our Swiss friend and that we trusted ourselves enough to give it a shot.
+
+As we approach Ísafjörður, the giant cruise ship looms over the city, and a small navy of glass-enclosed boats is shuttling passengers to the harbor. Mobs of people swarm the harbor and downtown area.
+
+Solitude must frequently be sought, and sometimes it must be earned with one's feet.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 8:00pm: Recovery
+***Ísafjörður***
+
+Ísafjörður is a beautiful village, and the largest in the Westfjords. It regularly hosts cruise ships and also appears to be a popular destination for motorcycle riders, as Harleys and Goldwings cruise by every now and then.
+
+This afternoon is about recovery from our week backpacking in Hornstrandir. Minutes after we check into our apartment, the packs open up and gear is strewn everywhere. Once the drying racks fill up with clean laundry, long and luxurious showers are the next point of business. The evening is spent at coffee shops and restaurants, getting back in touch with the world and filling our bellies with local seafood. Bedtime comes early.
+
+Tomorrow, we'll resume our road trip.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-3.jpg){:.lead data-width="800" data-height="100"}
+
