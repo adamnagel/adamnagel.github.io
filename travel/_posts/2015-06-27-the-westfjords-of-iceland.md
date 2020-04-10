@@ -209,3 +209,61 @@ I wish I had taken his portrait. He was as much a part of Hornstrandir as the fo
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun6-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun6-2.jpg){:.lead data-width="800" data-height="100"}
 
+# 23 June 2015
+## 9:00am: The Trail to Hlöðuvík
+
+Hornvik has a magical feel to it. The valley is several miles wide, and when the sky is clear you're surrounded by pristine mountains on three sides. When it's grey, the green of the tundra dominates, enormous waterfalls loom in the distance, and flocks of thousands of seagulls swirl low over the lakes every few minutes.
+
+Today we set out for Hlöðuvík, having talked to enough people to have some confidence that it was passable. The first section was a long, steady uphill into the neighboring valley, and topped out at Atlaskarð, an easy mountain pass.
+
+It's named for Atla, an outlaw who was tracked down to this spot, murdered, and buried in the pass. A large pile of stones marks the spot, and it's customary for each passing traveler to leave three stones for Atla.
+
+We take a short rest, leave our share of stones, and move out across the high valley to the much-worried-about pass of Skálarkambur.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun1-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 12:00pm: Skálarkambur
+***Skálarkambur Pass***
+
+We've been dreading this moment for days. If this pass is too difficult, we'll have to make 3 other passes to get around it, and probably change our itinerary altogether in order to make it to our boat pickup on time.
+
+We inch up to the top of the rocky ridge at the top of the pass, craning our necks for a clear view. Then we pause, turn to each other, and just begin laughing.
+
+We can't believe that we had gotten so worked up about this.
+
+From a rocky ridge at the top, we see a short, high path leading to a 5-meter snowfield crossing, ending in the main path leading downhill.
+
+Yeah, it's steep. Yeah, it's gravelly in some places. Yeah, if you slip and fall, you might just keep going. But it's manageable, and we've been through worse. The anxiety earlier in the season must have come from a steep, icy showpack, which would be scary indeed. Several days of clear, sunny weather turned that ice to slush and made the crossing relatively easy.
+
+After taking stock, we breathe sighs of relief and take a very long break while enjoying the incredible view.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun2-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun2-3.jpg){:.lead data-width="800" data-height="100"}
+
+## 2:00pm Ludvig & Family at Búðir
+***Búðir***
+
+"Why are you even out here?" Ludwig asks. We're sitting comfortably on wooden chairs, inside a house, sharing coffee and cookies with a couple of Icelanders we had just met.
+
+"It's beautiful, and there's so few people here," we reply. But they can't wrap their heads around why someone would travel across the world to visit a place that their family abandoned decades ago for its remoteness and hostility.
+
+The land in the Hornstrandir Nature Reserve is still owned privately, and houses can still be found. Very few people live here year-round, but many families use them as vacation homes. Ludwig and his brothers are here repairing their family's house at Búðir, which they had done at the start of each summer for decades.
+
+"The sun is always out," he says. "We sleep when we're tired, eat when we're hungry, and work when we can." He makes the annual repairs sound like a family vacation tradition.
+
+They are very proud of their work. He points out the new ceiling joists that allowed them to remove the old supporting columns. "You can dance in here!" he declares, spreading his arms wide.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun3-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 10:00pm Crossing and Camp
+***Hlöðuvík***
+
+Just one more crossing between us and camp. It's a deep one, but it's over quickly.
+
+Hælvik is a crescent-shaped bay, consisting of 4 glacial valleys arranged in a semi-circle. Its open end is almost due north, and at night the sun simply glides down above the mountains on the west side, skims across the top of the bay, and rises again as it reaches the eastern mountains.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun4-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun4-2.jpg){:.lead data-width="800" data-height="100"}
