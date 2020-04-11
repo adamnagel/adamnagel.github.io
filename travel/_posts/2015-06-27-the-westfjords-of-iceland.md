@@ -409,7 +409,7 @@ The hotel next door (the only commercial structure for 20 kilometers) sells book
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-2.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-2.jpg){:.lead data-width="800" data-height="100"}
 
-## 8:30pm: Grangsnes Campground
+## 8:30pm: Drangsnes Campground
 ***Drangsnes***
 
 "It is like hitting oil for us," explains the campground host. "When the water pipe to the factory burst, we got for permission to drill for fresh water. When we drilled, we found hot water instead. Everybody in the city has hot water in their homes."
