@@ -291,7 +291,7 @@ These passes are starting to get routine, but the cloudless skies bring an absol
 
 On the final leg of the descent to Hesteyri, we encounter an enormous snowfield. It stretches down the hill, and increases in steepness, such that we can't even see the middle section. It takes about 30 minutes of slow effort to safely descend, but with the soft marsh at the bottom, we wonder if sliding down would really be so bad.
 
-![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/24jun1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-2.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-3.jpg){:.lead data-width="800" data-height="100"}
 
@@ -347,4 +347,80 @@ Tomorrow, we'll resume our road trip.
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-1.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-2.jpg){:.lead data-width="800" data-height="100"}
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-3.jpg){:.lead data-width="800" data-height="100"}
+
+# 27 June 2015
+## 12:00pm: Fjord Roads
+***Roads of the Westfjords***
+
+The roads of the Westfjords continue their assault on sanity. The highland areas still have plenty of snow, which generates icy, raging rivers as it melts. Down in the fjords, wildflowers are in full bloom.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun1-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun1-3.jpg){:.lead data-width="800" data-height="100"}
+
+## 2:00pm: Museum of Icelandic Sorcery and Witchcraft
+***Hólmavík***
+
+We got tourist-trapped HARD in Hólmavík.
+
+We spent the morning racing our Suzuki Jimny across the roads of the eastern Westfjords to get to the Museum of Icelandic Sorcery and Witchcraft before closing time. It's the primary cultural attraction in this part of the country, and considering the rich mythology and harsh climate of Iceland, sounds like a fascinating topic.
+
+In reality, there are almost no genuine artifacts in the museum, and most of the information is in the self-guided tour booklet. Most of the physical items are reproductions or artistic imaginings. Among the "exhibits" are:
+
+"Invisible Boy": A mostly empty glass case with a rune-inscribed rock "held" at roughly hand-height by cables.
+
+"Raising the Dead": A pile of broken concrete on the floor with a mannequin crawling out.
+
+The most interesting part is the genealogy room, where the bloodlines of accusers and accused are traced. Both sides correlate strongly with family lines, revealing an undercurrent of political and personal feuding that carries on for centuries.
+
+Fortunately, they had a decent cafe.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun2-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun2-3.jpg){:.lead data-width="800" data-height="100"}
+
+## 5:00pm: Turtle Filmfest
+***Hólmavík***
+
+"Our projection rig is portable, so we can show the films anywhere," explains one of the festival organizers. "We can show them in the church, in historic buildings. We are even thinking of showing them on the fishing boats as they sail to Drangsnes and back!"
+
+An unexpected discovery: A German group is organizing a film festival in the tiny town of Hólmavík in August, and today they're screening films as a preview.
+
+"We want to learn what kinds of films people here like, what kinds of things they are interested in," explains one of the organizers. She radiates energy and enthusiasm for the project. "It's a way to start a deeper conversation with people by engaging them in a different way."
+
+Today they're screening three short films in Hólmavík's auditorium, a beautiful old building with a windowless, barrel-vaulted interior. It's a cultural event on the frontier and carries a risky excitement: will it work?
+
+Complimentary potato chips are served with coffee.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun3-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 7:00pm: The Sorcerer's Cottage
+
+We got double tourist-trapped.
+
+This turf-roofed cottage is a replica, built by the organizers of the sorcery museum to illustrate what life was like for Icelanders during the age of witchcraft, roughly in the middle of the last millennium. Authentic construction techniques and materials were used, and elements such as doorways and support beams carry appropriate magical runes. A mannequin lies in a hay-stuffed bed, reading a grimoire.
+
+The grounds also feature a giant's chair.
+
+The hotel next door (the only commercial structure for 20 kilometers) sells books and souvenirs.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-2.jpg){:.lead data-width="800" data-height="100"}
+
+## 8:30pm: Grangsnes Campground
+***Drangsnes***
+
+"It is like hitting oil for us," explains the campground host. "When the water pipe to the factory burst, we got for permission to drill for fresh water. When we drilled, we found hot water instead. Everybody in the city has hot water in their homes."
+
+They were so thrilled with their find that they built a set of hot tubs along the sea wall. One hot, one tepid, and one in between. Locals and visitors migrate between them, warming up and cooling down as they like. We join in as well.
+
+The uninhabited island of Grimsey lies offshore and catches the red rays of the descending sun.
+
+Drangsnes is quite a nice surprise. Maybe getting tourist-trapped up here wasn't so bad.
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun5-1.jpg){:.lead data-width="800" data-height="100"}
+
+![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun5-2.jpg){:.lead data-width="800" data-height="100"}
 
