@@ -406,7 +406,9 @@ The grounds also feature a giant's chair.
 The hotel next door (the only commercial structure for 20 kilometers) sells books and souvenirs.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun4-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 8:30pm: Drangsnes Campground
@@ -421,6 +423,5 @@ The uninhabited island of Grimsey lies offshore and catches the red rays of the 
 Drangsnes is quite a nice surprise. Maybe getting tourist-trapped up here wasn't so bad.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun5-1.jpg){:.lead data-width="800" data-height="100"}
-
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun5-2.jpg){:.lead data-width="800" data-height="100"}
 
