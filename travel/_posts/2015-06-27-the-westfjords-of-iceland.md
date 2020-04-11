@@ -17,7 +17,9 @@ To get to the Westfjords, you have to leave Iceland's Ring Road, the primary rou
 At every turn, the sheep of Iceland are watching.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/19jun1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/19jun2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/19jun3.jpg){:.lead data-width="800" data-height="100"}
 
 # 20 June 2015
@@ -31,7 +33,9 @@ The peninsula is extremely remote, a tough 1.5-hour drive from our campground ov
 Heather can't resist a selfie session with a puffin.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun1-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun1-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun1-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 4pm: Race to Ísafjörður
@@ -46,7 +50,9 @@ When you need to cover a lot of ground, you sometimes have to skip things along 
 Seriously, people standing near the foot of the falls looked like ants standing under a shower.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun2-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 8pm: Sailing into the Wild
@@ -71,6 +77,7 @@ So they think they'll be okay with their new plan, but they're from AUSTRIA. Aus
 We set up our campsite, start making dinner, and try to enjoy the view. And begin working on a strategy.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun3-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/20jun3-2.jpg){:.lead data-width="800" data-height="100"}
 
 # 21 June 2015
@@ -121,6 +128,7 @@ Before long, the fog is so thick that we cannot see the next islands at all. In 
 No sky, no ground, no rocks, no markers, no other people.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun2-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 5:00pm Topping Out and Heading Down
@@ -133,7 +141,9 @@ The descent on the other side of the pass is nearly as steep and just as foggy. 
 The fog returns within an hour and doesn't lift for the rest of the trip into Hornvik. Once we reach the valley, it has a magical, mysterious feel to it.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/21jun3-3.jpg){:.lead data-width="800" data-height="100"}
 
 # 22 June 2015
@@ -160,6 +170,7 @@ Rivers are the most dangerous aspect of Arctic hiking, both because they are ver
 Spending a minute knee-deep in 32.1-degree water is more effective than coffee, and it stretches the vocal cords too.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun2-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 11:00am: Steinþors-standur
@@ -183,6 +194,7 @@ To paraphrase our Norwegian friend, "bjarg" means "cliff", and you already know 
 At the top of Hornbjarg, we indulge in a tundra nap while looking out over Hornvik. By the time we begin stirring again a couple of hours later, fog is rolling in over the peninsula. We gather our things and make for Miðfell, a low peak in the center of the peninsula.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun4-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun4-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 4:00pm: Miðfell
@@ -193,6 +205,7 @@ Miðfell is a high ridge between two glacial valleys on the Horn peninsula. In p
 With the foggy weather, we don't get to enjoy views from the top, but the bird cliffs pick up in intensity on the other side. Unseen thousands of birds squawk down below. The occasional kittiwake pops up above the cliff rim, cackles loudly, and disappears again below. It feels like they're playing pranks on us.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun5-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun5-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 10:00pm: Back to Camp; Ranger Talk
@@ -207,6 +220,7 @@ We end up talking for 2 hours about the nature reserve and the arctic foxes that
 I wish I had taken his portrait. He was as much a part of Hornstrandir as the foxes, the fjords, and the sea.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun6-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/22jun6-2.jpg){:.lead data-width="800" data-height="100"}
 
 # 23 June 2015
@@ -221,6 +235,7 @@ It's named for Atla, an outlaw who was tracked down to this spot, murdered, and 
 We take a short rest, leave our share of stones, and move out across the high valley to the much-worried-about pass of Skálarkambur.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun1-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun1-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 12:00pm: Skálarkambur
@@ -239,7 +254,9 @@ Yeah, it's steep. Yeah, it's gravelly in some places. Yeah, if you slip and fall
 After taking stock, we breathe sighs of relief and take a very long break while enjoying the incredible view.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun2-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 2:00pm Ludvig & Family at Búðir
@@ -256,6 +273,7 @@ The land in the Hornstrandir Nature Reserve is still owned privately, and houses
 They are very proud of their work. He points out the new ceiling joists that allowed them to remove the old supporting columns. "You can dance in here!" he declares, spreading his arms wide.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun3-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun3-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 10:00pm Crossing and Camp
@@ -266,6 +284,7 @@ Just one more crossing between us and camp. It's a deep one, but it's over quick
 Hælvik is a crescent-shaped bay, consisting of 4 glacial valleys arranged in a semi-circle. Its open end is almost due north, and at night the sun simply glides down above the mountains on the west side, skims across the top of the bay, and rises again as it reaches the eastern mountains.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun4-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/23jun4-2.jpg){:.lead data-width="800" data-height="100"}
 
 # 24 June 2015: Staying Put
@@ -292,7 +311,9 @@ These passes are starting to get routine, but the cloudless skies bring an absol
 On the final leg of the descent to Hesteyri, we encounter an enormous snowfield. It stretches down the hill, and increases in steepness, such that we can't even see the middle section. It takes about 30 minutes of slow effort to safely descend, but with the soft marsh at the bottom, we wonder if sliding down would really be so bad.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun1-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 6:00pm: The Old Doctor's House
@@ -307,7 +328,9 @@ Before long, a curious Arctic fox trots up to the porch, politely posing for pho
 Dinner is lamb stew, and we have two helpings. Three helpings of bread. And don't skip dessert. A chilly after-dinner walk to the old whaling station gets us ready for bed, and it doesn't take long at all to get to sleep.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/25jun2-3.jpg){:.lead data-width="800" data-height="100"}
 
 # 26 June 2015
@@ -317,6 +340,7 @@ Dinner is lamb stew, and we have two helpings. Three helpings of bread. And don'
 Showers and breakfast are incredible luxuries. Bread does not last long in our presence.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun1-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun1-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 9:00am: The Ferry Back to Ísafjörður
@@ -333,6 +357,7 @@ As we approach Ísafjörður, the giant cruise ship looms over the city, and a s
 Solitude must frequently be sought, and sometimes it must be earned with one's feet.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun2-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 8:00pm: Recovery
@@ -345,7 +370,9 @@ This afternoon is about recovery from our week backpacking in Hornstrandir. Minu
 Tomorrow, we'll resume our road trip.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/26jun3-3.jpg){:.lead data-width="800" data-height="100"}
 
 # 27 June 2015
@@ -355,7 +382,9 @@ Tomorrow, we'll resume our road trip.
 The roads of the Westfjords continue their assault on sanity. The highland areas still have plenty of snow, which generates icy, raging rivers as it melts. Down in the fjords, wildflowers are in full bloom.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun1-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun1-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun1-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 2:00pm: Museum of Icelandic Sorcery and Witchcraft
@@ -376,7 +405,9 @@ The most interesting part is the genealogy room, where the bloodlines of accuser
 Fortunately, they had a decent cafe.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun2-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun2-2.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun2-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 5:00pm: Turtle Filmfest
@@ -393,6 +424,7 @@ Today they're screening three short films in Hólmavík's auditorium, a beautifu
 Complimentary potato chips are served with coffee.
 
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun3-1.jpg){:.lead data-width="800" data-height="100"}
+
 ![Full-width image](/assets/images/2015-06-27-the-westfjords-of-iceland/27jun3-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 7:00pm: The Sorcerer's Cottage
