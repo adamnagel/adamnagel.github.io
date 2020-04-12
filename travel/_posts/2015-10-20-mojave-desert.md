@@ -55,7 +55,7 @@ After checking the weather again this morning, we decide to head down to Joshua 
 
 ![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct1-2.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct1-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct1-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 5:00pm: Joshua Tree Sunset
 ***Joshua Tree National Park***
