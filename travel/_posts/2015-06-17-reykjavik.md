@@ -8,7 +8,7 @@ header:
 {:toc}
 
 # 15 June 2015
-## 6:30am: Early Snage
+## 6:30am: Early Snags
 ***Keflavíkurflugvöllur***
 
 "Um, don't you arrive later?" our car rental agent asked. It was 5am and we were standing in a tiny, plywood-clad hallway just outside of the baggage claim, with 80 lbs of baggage and about an hour of sleep between us. "Huh," he added.
