@@ -1,7 +1,7 @@
 ---
 title: "Mojave Desert"
 header:
-  image: /assets/images/2020-10-20-mojave-desert/header.jpg
+  image: /assets/images/2015-10-20-mojave-desert/header.jpg
   caption: "A Joshua Tree at sunset. Photo credit: Adam Nagel"
 ---
 * this unordered seed list will be replaced by toc as unordered list
@@ -41,7 +41,7 @@ We've been warned about a lot of things today. But this hotel, which we booked l
 
 If we weren't so tired, we'd stay up for the party.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/16oct.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/16oct.jpg){:.lead data-width="800" data-height="100"}
 
 # 17 October 2015
 ## 1:30pm: Dunes of the Mojave
@@ -51,11 +51,11 @@ The Kelso Dunes are among only a handful of dunes worldwide known to "boom". The
 
 After checking the weather again this morning, we decide to head down to Joshua Tree National Park in southeastern California. The route down from Las Vegas takes us through the Mojave desert. It's a beautiful, white desert, and a forest of Joshua trees lines the road. Occasionally the lower sections of the road are filled with mud from recent flash flooding.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct1-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct1-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct1-2.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct1-3.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct1-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 5:00pm: Joshua Tree Sunset
 ***Joshua Tree National Park***
@@ -68,11 +68,11 @@ His advice is dead on. The field is thick with Joshua trees, their curved and gn
 
 As the sun sets behind the mountains, small armies of photographers wade into the field with their tripods, intervalometers, and red headlamps. The desert is still and quiet, and although the sky isn't especially clear, the comfortable temperature makes for a great night.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct2-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct2-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct2-2.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct2-3.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct2-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 10:00pm: Pioneer Days in Twentynine Palms
 ***Luckie Park***
@@ -81,7 +81,7 @@ The Gravitron. The Scrambler. The Himalayan. Shouts and music fill the air.
 
 We stumble on the Pioneer Days fair completely by accident. The bright lights of the park catch our attention while we're driving to our campground. We grab a delicious, authentic burrito from a food stand and stroll through the carnival grounds for a while. It brings on a wave of nostalgia for the rural fairs we went to as children.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/17oct3.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/17oct3.jpg){:.lead data-width="800" data-height="100"}
 
 # 18 October 2015
 ## 7:00am: Alone at Sunrise
@@ -91,9 +91,9 @@ After the fair, we got to our campground so late that we didn't feel like pitchi
 
 This morning we wake up before dawn and head into the park before the crowds and temperatures crank up. We're the only souls at Keys View, a lookout point in the southern part of the park that towers over the Coachella Valley, with a view stretching from Palm Springs to the Salton Sea.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct1-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct1-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct1-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct1-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 10:00am: Hidden Valley
 ***Joshua Tree National Park***
@@ -104,7 +104,7 @@ Hidden Valley is well-named, an enclosed circle ringed by rock formations, and l
 
 After a spin around the valley, we head into town for lunch, and then make our way north to our next park: Death Valley.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 3:00pm: Volcanoes and Looming Flash Floods
 ***Mojave National Preserve***
@@ -115,9 +115,9 @@ The signs of recent and looming flash flooding are all around: the washouts at t
 
 The road passes through tens of miles of volcanic craters and ancient lava fields, which comes as a surprise. We didn't know that this area had been the site of so much volcanic activity, and we resolve to come back and explore them someday.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct3-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct3-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct3-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 4:00pm: Drier, Hotter, Deeper
 ***Death Valley National Park***
@@ -128,7 +128,7 @@ The road slopes even more steeply downward after we enter the park. A packed par
 
 A huge variety of desert landscapes are visible from here. Golden hills surround the point, their sides deeply eroded to form sharp fingers of dirt. Cliffs of red sandstone jut skyward from their upper reaches, and sharply-angled formations stand at the lower end of the area. Behind those formations is the miles-wide salt flats of Badwater Basin, the lowest point in North America and the hottest place on earth. Just beyond, the Panamint Range rises to 11,000 feet.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct4.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct4.jpg){:.lead data-width="800" data-height="100"}
 
 ## 6:30pm: Dante's View
 ***Death Valley National Park***
@@ -137,11 +137,11 @@ A huge variety of desert landscapes are visible from here. Golden hills surround
 
 After wandering the ridge for a while, we settle in the shelter of a rock outcropping to watch the sun set over the valley. In the distant north, a thunderstorm unleashes a steady torrent of lightning bolts. There's probably a lot of flooding going on up there, and we hope that it doesn't keep us from exploring more of the park tomorrow.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct5-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct5-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct5-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct5-2.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/18oct5-3.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/18oct5-3.jpg){:.lead data-width="800" data-height="100"}
 
 # 19 October 2015
 ## 3:00am: Coyotes
@@ -157,7 +157,7 @@ After a few nervous seconds, one of the campers shouts, and the coyotes sprint f
 
 As the sound of their running recedes, flashlights from tents all around the campground scan the area, and we can hear murmurs of conversation from the other tents. After it appears that they've gone for good, the movement settles and the area falls into complete silence again.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct1.jpg){:.lead data-width="800" data-height="100"}
 
 ## 7:00am: Zabriskie Point Sunrise
 ***Death Valley National Park***
@@ -168,11 +168,11 @@ As we set up a tripod at the overlook, we see the group emerge on top of one of 
 
 As we're leaving, we're startled by a loud rustling and squeaking sound overhead. It's a raven, and in this otherwise-silent desert we can plainly hear its breathing as it makes its way up the valley.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct2-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct2-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct2-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct2-2.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct2-3.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct2-3.jpg){:.lead data-width="800" data-height="100"}
 
 ## 10:00am: Mesquite Dunes
 ***Death Valley National Park***
@@ -185,9 +185,9 @@ Death Valley is huge, and distances are deceiving. We head towards the tallest d
 
 It's not even noon yet.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct3-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct3-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct3-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct3-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 2:00pm: Panamint Valley
 ***Death Valley National Park***
@@ -196,9 +196,9 @@ The Panamint Valley lies east of Death Valley, separated by the Panamint Range. 
 
 With the temperatures rising rapidly, we're spending the afternoon sightseeing from the comfort of the car.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct4-1.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct4-1.jpg){:.lead data-width="800" data-height="100"}
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct4-2.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct4-2.jpg){:.lead data-width="800" data-height="100"}
 
 ## 4:00pm: Wildrose Charcoal Kilns
 ***Death Valley National Park***
@@ -209,7 +209,7 @@ Built in 1877, these beehive-shaped kilns were used to turn Pinion Pines into ch
 
 The road continues up to the Mahogany Flat campground at 8,133 feet, but it's too rough for our little Ford compact. After enjoying the cool mountain breeze for a while, we head back down into the valley. We only pass a handful of cars on the way.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct5.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct5.jpg){:.lead data-width="800" data-height="100"}
 
 ## 5:30pm: Unknown
 ***Mercury, Nevada***
@@ -234,7 +234,7 @@ Every single piece of advice that we've received has been contradictory. But bec
 
 In many sections, the road is covered with dirt left by the recent flash-flooding, and it kicks up into a cloudy haze whenever a car passes us. But aside from this, we make our way back to Vegas without incident.
 
-![Full-width image](/assets/images/2020-10-20-mojave-desert/19oct6.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](/assets/images/2015-10-20-mojave-desert/19oct6.jpg){:.lead data-width="800" data-height="100"}
 
 # 20 October 2015
 ## 9:00am: Leaving Las Vegas
