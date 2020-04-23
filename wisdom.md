@@ -12,3 +12,6 @@ Knowing is not enough; we must apply. Willing is not enough; we must do.
 Deep in the unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic. -- _Dune_, Frank Herbert
 
 "Give as few orders as possible," his father had told him... once... long ago. "Once you've given orders on a subject, you must always give orders on that subject." -- _Dune_, Frank Herbert
+
+"Any meeting with more than 2 participants is a performance."
+-- I don't recall who said this, but it is definitely true.
