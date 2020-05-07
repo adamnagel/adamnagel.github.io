@@ -16,4 +16,6 @@ Deep in the unconscious is a pervasive need for a logical universe that makes se
 "Any meeting with more than 2 participants is a performance."
 -- I don't recall who said this, but it is definitely true.
 
-"Coming back to where you started is not the same as never leaving." ― Terry Pratchett
+"Coming back to where you started is not the same as never leaving." ―- Terry Pratchett
+
+"I cannot judge what he did, because I did not have his information." -- Lee Kuan Yew
