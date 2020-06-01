@@ -19,3 +19,5 @@ Deep in the unconscious is a pervasive need for a logical universe that makes se
 "Coming back to where you started is not the same as never leaving." ―- Terry Pratchett
 
 "I cannot judge what he did, because I did not have his information." -- Lee Kuan Yew
+
+"That was when Father had told Draco about the Rule of Three, which was that any plot which required more than three different things to happen would never work in real life. Father had further explained that since only a fool would attempt a plot that was as complicated as possible, the real limit was two." -- _Harry Potter and the Method of Rationality_, Eliezer Yudkowsky
