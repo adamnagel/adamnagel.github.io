@@ -13,7 +13,7 @@ By default, GraphDB runs at:
 http://localhost:7200
 ```
 
-With the proxy settings, we'll set it run run at:
+With the proxy settings, we'll set it to run at:
 ```
 http://localhost:8080/graphdb/
 ```
@@ -78,7 +78,7 @@ http://localhost:8080/graphdb/
 
 # References
 1. [nginx reverse proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/#pass): This tells us how to add a new `location` to the nginx config
-2. [controlling nginx](https://docs.nginx.com/nginx/admin-guide/basic-functionality/runtime-control/#:~:text=To%20reload%20your%20configuration%2C%20you,)%20with%20the%20%2Ds%20argument.&text=where%20can%20be%20one,quit%20%E2%80%93%20Shut%20down%20gracefully): This tells us how to start, stop, and reload nginx
+2. [controlling nginx](https://docs.nginx.com/nginx/admin-guide/basic-functionality/runtime-control/): This tells us how to start, stop, and reload nginx
 3. Stack Overflow [Run GraphDB behind Apache Proxy](https://stackoverflow.com/a/61651318): This breadcrumb led me to the right GraphDB configuration property to change
 4. GraphDB [list of configuration properties](http://graphdb.ontotext.com/documentation/standard/configuring-graphdb.html#list-of-configuration-properties): The full list of configuration properties for GraphDB
 5. [Configuring GraphDB](http://graphdb.ontotext.com/documentation/free/quick-start-guide.html#configuring-graphdb): Shows how to access the dialog box you can use to add properties.
