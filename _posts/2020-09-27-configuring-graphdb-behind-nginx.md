@@ -1,12 +1,12 @@
 ---
-title: "Configuring GraphDB behind an Nginx proxy"
+title: "Configuring GraphDB behind an Nginx reverse proxy"
 categories: [Programming]
 layout: post
 ---
 
 [GraphDB](http://graphdb.ontotext.com/) is a solid semantic graph database that includes both free and paid versions. The free version has a lot of capability and is easy to use.
 
-In this post, we look at how to configure GraphDB behind an [nginx](https://www.nginx.com/) proxy so that it can live at a specific URL.
+In this post, we look at how to configure GraphDB behind an [nginx](https://www.nginx.com/) reverse proxy so that it can live at a specific URL.
 
 By default, GraphDB runs at:
 ```
