@@ -3,10 +3,10 @@ title: "Team Toplogies: Reading Notes"
 categories: [reading]
 layout: post
 ---
+**Book:** [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton & Manuel Pais 
+
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
-
-**Book:** [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton & Manuel Pais 
 
 # Highlighted Passages
 ## Chapter 1: Teams as the Means of Delivery
@@ -15,4 +15,6 @@ layout: post
 **pg 13:** The goal of _Team Topologies_ is to give you the approach and mental tools to enable your organization to adapt and dynamically find the places and timing when collaboration is needed, as well as when it is best to focus on execution and reduce communication overhead. 
 
 ## Chapter 2:
+
+
 
