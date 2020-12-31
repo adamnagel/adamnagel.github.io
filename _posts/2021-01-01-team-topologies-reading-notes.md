@@ -14,7 +14,14 @@ layout: post
 
 **pg 13:** The goal of _Team Topologies_ is to give you the approach and mental tools to enable your organization to adapt and dynamically find the places and timing when collaboration is needed, as well as when it is best to focus on execution and reduce communication overhead. 
 
-## Chapter 2:
+## Chapter 2: Conway's Law and Why It Matters
+**pg 24:** One key implication of Conway's law is that not all communication and collaboration is good. Thus it is important to define "team interfaces" to set expectations around what kind of work requires strong collaboration and what doesn't. Many organizations assume that more communication is always better, but this is not really the case.
+
+What we need is _focused_ communication between specific teams. _**We need to look for unexpected communication and address the cause**. (emphasis mine)_ 
+
+
+
+
 
 
 
