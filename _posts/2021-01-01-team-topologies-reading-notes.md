@@ -3,6 +3,8 @@ title: "Team Toplogies: Reading Notes"
 categories: [reading]
 layout: post
 ---
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 **Book:** [Team Topologies](https://teamtopologies.com/book) by Matthew Skelton & Manuel Pais 
 
