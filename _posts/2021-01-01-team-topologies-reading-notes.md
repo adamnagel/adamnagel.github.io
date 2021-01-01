@@ -92,7 +92,9 @@ Knowledge transfer between an enabling and a stream-aligned team can take shape 
 **pg 109:** The most effective pattern for an architecture team is as a part-time enabling team.
 
 ## Chapter 6
-**pg 111:** Flow is difficult to achieve when each team depends on a complicated web of interactions with many other teams. For a fast flow of change to software systems, we need to remove hand-offs and align most teams to the main streams of change within the organization.
+**pg 111:** Flow is difficult to achieve when each team depends on a complicated web of interactions with many other teams. For a fast flow of change to software systems, we need to remove hand-offs and align most teams to the main streams of change within the organization. However, many organizations experience huge problems with the responsibility boundaries assigned to teams. Typically, little thought is given to the viability of the boundaries for teams, resulting in a lack of ownership, disengagement, and a glacially slow rate of delivery.
+
+
 
 
 
