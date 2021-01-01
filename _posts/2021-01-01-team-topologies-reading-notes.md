@@ -72,6 +72,24 @@ Knowledge transfer between an enabling and a stream-aligned team can take shape 
 - stays ahead of the curve in keeping abreast of new approaches, tooling, and practices in their area of expertise, well before an actual need is expected from steam-aligned teams.
 - promotes learning not only inside the enabling team but across stream-aligned teams, acting as a curator that facilitates appropriate knowledge sharing inside the organization.
 
+**pg 90:** Steam-aligned teams should expect to work with enabling teams only for short periods of time (weeks or months) in order to increase their capabilities around new technology, concept, or approach. After the new skills and understanding have been embedded in the stream-aligned team, the enabling team will stop daily interaction wiht the stream-aligned team, switching their focus to a different team.
+
+## On Platform Teams
+**pg 94:** What kinds of behaviors and outcomes do we expect to see in an effective platform team? _(selected subset)_
+- uses strong collaboration with stream-aligned teams to understand their needs.
+- relies on fast prototyping techniques and involves stream-aligned team members for fast feedback on what works and what does not.
+- has strong focus on usability and reliability... and regularly assesses if the services are still fit for purpose and usable.
+
+**pg 96**: A **key, key idea** -- a platform team has an internal topology of multiple other team types. Including sub-platform teams.
+
+**pg 99:** _(Testimonial from AutoTrader)_ We have an Ops "squad buddy" for each Dev squad, a person from Ops who regularly works with specific Dev squads, attending their standups and providing the "glue" between dev and ops.
+
+**pg 100:** Organizations that optimize for a safe and rapid flow of change tend to use mixed-discipline or cross-functional teams aligned to the flow of change -- what we call stream-aligned teams. Sometimes a particular area is so complicated that a dedicated complicated-subsystem team is needed. _**But such teams never sit in the flow of change; instead, they provide services to stream-aligned teams.**_ Work is never handed off to another team for a later stage in the flow.
+
+## Converting Common Team Types to the Fundamental Team Topologies
+**pg 107:** For organizations that are successful at delivering software rapidly and safely, most teams are stream aligned, wiht only around one in seven to one in ten teams not stream aligned. That is... the radio of stream-aligned teams to other kinds of teams should be between about 6:1 and 9:1.
+
+
 
 
 
