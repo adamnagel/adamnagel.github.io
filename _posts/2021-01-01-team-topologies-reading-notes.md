@@ -48,15 +48,15 @@ NOTE: This can be generalized -- one team decides how it should work, so others 
 
 **pg 73:** Low maturity organizations will need time to acquire the engineering and product development capabilities required for autonomous end-to-end teams. Meanwhile, more specialized teams (development, operations, security, and others) are an acceptable trade-off, as long as they collaborate closely to minimize wait times and quickly address issues.
 
-# Chapter 5
+## Chapter 5
 **pg 80:** [M]ultiple stream-aligned teams are the starting point... but an organization may also have several platform teams, a few enabling teams for different purposes (perhaps one addressing CI/CD and a second addressing infrastructure or architecture), and... one or two complicated-subsystem teams.
 
-## On Stream-Aligned Teams
+### On Stream-Aligned Teams
 **pg 85:** What kinds of behaviors do we expect to see in an effective stream-aligned team? _(selected subset)_
 - minimal (ideally zero) hand-offs of work to other teams.
 - proactively adn regularly reaches out to the supporting fundamental-topologies teams (complicated subsystem, enabling, and platform)
 
-## On Enabling Teams
+### On Enabling Teams
 **pg 86:** An enabling team is composed of specialists in a given technical (or product) domain, and they help bridge this capability gap. Such teams cross-cut to the stream-aligned teams and have the required bandwidth to research, try out options, and a make informed suggestions on adequate tooling, practices, frameworks, and any of the ecosystem choices around the application stack.
 
 Enabling teams have a strongly collaborative nature; they thrive to understand the problems and shortcomings of steam-aligned taems in order to provide effective guidance. Jetta Eckstein calls them "Technical Consulting Teams"... provid[ing] guidance, not execution...
@@ -74,7 +74,7 @@ Knowledge transfer between an enabling and a stream-aligned team can take shape 
 
 **pg 90:** Steam-aligned teams should expect to work with enabling teams only for short periods of time (weeks or months) in order to increase their capabilities around new technology, concept, or approach. After the new skills and understanding have been embedded in the stream-aligned team, the enabling team will stop daily interaction wiht the stream-aligned team, switching their focus to a different team.
 
-## On Platform Teams
+### On Platform Teams
 **pg 94:** What kinds of behaviors and outcomes do we expect to see in an effective platform team? _(selected subset)_
 - uses strong collaboration with stream-aligned teams to understand their needs.
 - relies on fast prototyping techniques and involves stream-aligned team members for fast feedback on what works and what does not.
@@ -86,9 +86,13 @@ Knowledge transfer between an enabling and a stream-aligned team can take shape 
 
 **pg 100:** Organizations that optimize for a safe and rapid flow of change tend to use mixed-discipline or cross-functional teams aligned to the flow of change -- what we call stream-aligned teams. Sometimes a particular area is so complicated that a dedicated complicated-subsystem team is needed. _**But such teams never sit in the flow of change; instead, they provide services to stream-aligned teams.**_ Work is never handed off to another team for a later stage in the flow.
 
-## Converting Common Team Types to the Fundamental Team Topologies
+### Converting Common Team Types to the Fundamental Team Topologies
 **pg 107:** For organizations that are successful at delivering software rapidly and safely, most teams are stream aligned, wiht only around one in seven to one in ten teams not stream aligned. That is... the radio of stream-aligned teams to other kinds of teams should be between about 6:1 and 9:1.
 
+**pg 109:** The most effective pattern for an architecture team is as a part-time enabling team.
+
+## Chapter 6
+**pg 111:** Flow is difficult to achieve when each team depends on a complicated web of interactions with many other teams. For a fast flow of change to software systems, we need to remove hand-offs and align most teams to the main streams of change within the organization.
 
 
 
