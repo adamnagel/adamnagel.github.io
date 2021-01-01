@@ -43,6 +43,36 @@ This chapter also brings up the idea of _guilds_ around certain specialties to s
 
 NOTE: This can be generalized -- one team decides how it should work, so others can work it autonomously.
 
+**pg 72:** [T]raditional organizations adopting Agile -- moving to smaller batches of delivery -- often lacked the mature engineering practices required to keep a sustainable pace over time (such as automated testing, deployment, or monitoring). They could benefit from a temporary DevOps team with battle-tested engineers to bring in expertise and, more importantly, bring teams together by collaborating on shared practices and tools.
+    However, without a clear mission and expiration date for such a DevOps team, it's easy to cross the thin line between this pattern and the corresponding anti-pattern of yet another silo (DevOps team) with compartmentalized knowledge (such as configuration management, monitoring, deployment strategies, and others) in the organization.
+
+**pg 73:** Low maturity organizations will need time to acquire the engineering and product development capabilities required for autonomous end-to-end teams. Meanwhile, more specialized teams (development, operations, security, and others) are an acceptable trade-off, as long as they collaborate closely to minimize wait times and quickly address issues.
+
+# Chapter 5
+**pg 80:** [M]ultiple stream-aligned teams are the starting point... but an organization may also have several platform teams, a few enabling teams for different purposes (perhaps one addressing CI/CD and a second addressing infrastructure or architecture), and... one or two complicated-subsystem teams.
+
+## On Stream-Aligned Teams
+**pg 85:** What kinds of behaviors do we expect to see in an effective stream-aligned team? _(selected subset)_
+- minimal (ideally zero) hand-offs of work to other teams.
+- proactively adn regularly reaches out to the supporting fundamental-topologies teams (complicated subsystem, enabling, and platform)
+
+## On Enabling Teams
+**pg 86:** An enabling team is composed of specialists in a given technical (or product) domain, and they help bridge this capability gap. Such teams cross-cut to the stream-aligned teams and have the required bandwidth to research, try out options, and a make informed suggestions on adequate tooling, practices, frameworks, and any of the ecosystem choices around the application stack.
+
+Enabling teams have a strongly collaborative nature; they thrive to understand the problems and shortcomings of steam-aligned taems in order to provide effective guidance. Jetta Eckstein calls them "Technical Consulting Teams"... provid[ing] guidance, not execution...
+
+Enabling teams actively avoid becoming "ivory towers" of knowledge, dictating technical choices for other teams to follow, while helping teams to understand and comply with organization-wide technology constraints.
+
+The end goal of an enabling team is to increase the autonomy of stream-aligned teams by growing their capabilities with a focus on their problems first, not the solutions per se. If an enabling team does its job well, the team... should no longer need the help... after a few weeks or months; there should not be a permanent dependency on the enabling team.
+
+Knowledge transfer between an enabling and a stream-aligned team can take shape on a temporary basis or on a long-term basis. Pairing can be quite effective for some types of practices...
+
+**pg 87:** What kinds of behaviors and outcomes do we expect to see in an effective enabling team? _(selected subset)_
+- proactively seeks to understand the needs of stream-aligned teams, establishing regular checkpoints and jointly agreeing when more collaboration is needed.
+- stays ahead of the curve in keeping abreast of new approaches, tooling, and practices in their area of expertise, well before an actual need is expected from steam-aligned teams.
+- promotes learning not only inside the enabling team but across stream-aligned teams, acting as a curator that facilitates appropriate knowledge sharing inside the organization.
+
+
 
 
 
