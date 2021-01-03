@@ -98,6 +98,39 @@ Knowledge transfer between an enabling and a stream-aligned team can take shape 
 **pg 117:** **Change Cadence.** Another natural fracture plane is where different parts of the system need to change at different frequencies. 
 Splitting off the parts of the system that typically change at different speeds allows them to change more quickly.
 
+## Chapter 7: Team Interaction Modes
+**pg 131:** [S]imply arranging teams into patterns is not enough for high effectiveness; it is also necessary to identify how these teams interact and when to change the teams and their interactions.
+
+**pg 132:** In many organizations, poorly define team interactions and responsibilities are a source of friction and ineffectiveness. A team may have been told it is autonomous and self-organizing, but team members find they have to interact with many other teams in order to complete their work; and this feels frustrating.
+
+When considering the relationship between any teams, a key decision is whether to collaborate with another team to achieve an objective or to treat the other team as providing a service.
+
+**pg 133:** Intermittent collaboration gives the best results... Groups whose members interacted only intermittently... had an average quality of solution that was nearly identical to those groups that interacted constantly, yet they preserved enough variation to find some of the best solutions too. Intermittent collaboration found better solutions than constant interaction.
+
+**pg 133:** The three essential ways that teams can interact:
+- **Collaboration:** working closely with another team
+- **X-as-a-Service:** consuming or providing something with minimal collaboration
+- **Facilitating:** helping (or being helped by) another team to clear impediments
+
+**pg 134** establishes visual diagram semantics
+
+### on Collaboration
+**pg 136:** During early phases of new systems development, and during periods where there is a need to quickly discover new information, technology limitations, and suitable practices, the collaboration mode is highly valuable. This is because team topologies that use collaboration can rapidly uncover new ways of working and unexpected behaviors of technologies.
+
+**pg 137:** A team should use collaboration mode with, at most, one other team at a time.
+
+### On X-as-a-Service
+**pg 138:** During later phases of systems development and periods where predictable delivery is needed (rather than discovery of new approaches), the X-as-a-Service model works best. In this model, teams can rely on certain aspects of their technology landscape being provided as a service by other teams (internal or external), allowing the team to focus on delivering their work.
+
+### on Facilitating
+**pg 140:** The facilitating team interaction mode is suited to situations where one or more teams would benefit from the active help of another team facilitating (or coaching) some aspect of their work. The facilitating interaction mode is the main operating mode of an enabling team.
+
+Teams that interact using the facilitating mode typically work across many other teams, detecting and reducing cross-team problems and heping to inform the direction and capabilities of things like code libraries, APIs, and platforms provided as a service by other teams or organizations.
+
+**pg 141:** For example, a team facilitating the effectiveness of three stream-aligned teams might find that the logging service provided by the platform is quite difficult to configure: all three teams find it difficult to use. The team helping the three teams can then facilitate some improvements to the logging service from the platform.
+
+## Chapter 8
+**pg 155:** To reach the level of a high-performing organization, it is important to decide how much collaboration is appropriate for each team-to-team interaction. Should Team A simply be able to consume services from Team B with little effort? If they should but cannot yet, should Team A collaborate with Team B for a short time (Three weeks? Three months?) in order to better define the API for Team B and enable Team A to consume it "as a service"? Exactly what should the teams collaborate on, bearing in mind that the collaboration will likely tend to blur the boundaries of each part of the system between Team A and Team B?
 
 
 
