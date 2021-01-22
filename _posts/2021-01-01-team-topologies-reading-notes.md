@@ -1,5 +1,5 @@
 ---
-title: "Team Toplogies: Reading Notes"
+title: "Team Topologies: Reading Notes"
 categories: [reading]
 layout: post
 ---
