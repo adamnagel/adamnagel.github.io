@@ -34,6 +34,8 @@ Deep in the unconscious is a pervasive need for a logical universe that makes se
 
 "[It] seems Ethernet does not work in theory, only in practice." -- David Boggs, co-inventor of Ethernet
 
+"Don't confuse comfort with happiness." — Dean Karnazes
+
 ---
 One of the first interesting experiences I had in this project at Princeton was meeting great men. I had never met very many great men before. But there was an evaluation committee that had to try to help us along, and help us ultimately decide which way we were going to separate the uranium. This committee had men like Compton and Tolman and Smyth and Urey and Rabi and Oppenheimer on it. I would sit in because I understood the theory of how our process of separating isotopes worked, so they'd ask me questions and talk about it. In these discussions, one man would make a point. Then Compton, for example, would explain a different point of view. He would say it should be this way, and he was perfectly right. Another guy would say, well, maybe, but there is this other possibility that we have to consider against it.
 
