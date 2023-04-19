@@ -46,13 +46,14 @@ Deep in the unconscious is a pervasive need for a logical universe that makes se
 
 "The axe forgets; the tree remembers."
 
+"A goal without a plan is just a wish." -- Antoine de Saint-Exupery
+
 ---
 One of the first interesting experiences I had in this project at Princeton was meeting great men. I had never met very many great men before. But there was an evaluation committee that had to try to help us along, and help us ultimately decide which way we were going to separate the uranium. This committee had men like Compton and Tolman and Smyth and Urey and Rabi and Oppenheimer on it. I would sit in because I understood the theory of how our process of separating isotopes worked, so they'd ask me questions and talk about it. In these discussions, one man would make a point. Then Compton, for example, would explain a different point of view. He would say it should be this way, and he was perfectly right. Another guy would say, well, maybe, but there is this other possibility that we have to consider against it.
 
 So everybody is disagreeing, all around the table. I am surprised and disturbed that Compton doesn't repeat and emphasize his point. Finally, at the end, Tolman, who's the chairman, would say, "Well, having heard all these arguments, I guess it's true that Compton's argument is the best of all, and now we have to go ahead."
 
 It was such a shock to me to see that a committee of men could present a whole lot of ideas, each one thinking of a new facet, while remembering what the other fella said, so that, at the end, the decision is made as to which idea was the best---summing it all up---without having to say it three times. These were very great men indeed.
-
 
 "Surely you're joking, Mr. Feynman!"
 Richard P. Feynman (as told to Ralph Leighton (edited by Edward Hutchings))
