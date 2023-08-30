@@ -1,6 +1,9 @@
 # Feynman on the Importance of Examples
 *Taken from the book Surely You’re Joking, Mr. Feynman!*
 
+*I identify strongly with this.*
+
+## Excerpt
 That was the first time I was in Japan. I was eager to go back, and said I would go to any university they wanted me to. So the Japanese arranged a whole series of places to visit for a few days at a time.
 
 At all these places everybody working in physics would tell me what they were doing and I’d discuss it with them. They would tell me the general problem they were working on, and would begin to write a bunch of equations.
