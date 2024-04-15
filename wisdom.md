@@ -76,8 +76,10 @@ Tell about it.“
 "Over time, the questions stay the same, but the answers change." 
 -- Allan Lang, paraphrasing a professor he once had
 
-“I figure that it’s better to be a sucker who makes something than a wise guy who is too cautious to make anything at all.” 
+"I figure that it’s better to be a sucker who makes something than a wise guy who is too cautious to make anything at all." 
 -- Henry Darger
+
+"There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion." ​—​- Donella H. Meadows
 
 ---
 One of the first interesting experiences I had in this project at Princeton was meeting great men. I had never met very many great men before. But there was an evaluation committee that had to try to help us along, and help us ultimately decide which way we were going to separate the uranium. This committee had men like Compton and Tolman and Smyth and Urey and Rabi and Oppenheimer on it. I would sit in because I understood the theory of how our process of separating isotopes worked, so they'd ask me questions and talk about it. In these discussions, one man would make a point. Then Compton, for example, would explain a different point of view. He would say it should be this way, and he was perfectly right. Another guy would say, well, maybe, but there is this other possibility that we have to consider against it.
