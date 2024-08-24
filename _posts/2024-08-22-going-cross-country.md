@@ -66,6 +66,7 @@ Memories:
 2. Taking a founders' call from the picnic area of Blue Heron Lake in Golden Gate Park.
 3. Crossing the Bridge
 4. Traversing the marshlands along Highway 37. A deep channel snakes through the shallows of a roadside creek.
+5. A military [Osprey](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey) flying over the highway near Travis AFB.
 5. Filtering through backed-up interstate traffic for hours.
 6. The new cruise control is **perfect**.
 
