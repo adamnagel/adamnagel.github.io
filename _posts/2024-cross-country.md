@@ -1,4 +1,5 @@
-The store clerks stare at me in surprise. We're in Dublin California and I've come into the shop to buy a toolkit and Rok tiedown straps.
+# Day 0: Preparation
+The store clerks stare at me in surprise. We're in Dublin, California and I've come into the shop to buy a toolkit and Rok tiedown straps for my duffel bag.
 
 "You're going all the way to Nashville on a Bonnie? That's a pretty small bike. Are you traveling with someone?"
 
@@ -14,16 +15,20 @@ They convince me to get a 1L spare fuel bottle and a tire puncture kit.
 
 "Hey look at those boots, those are real moto boots!"
 
-We're standing in the midst of an impressive vintage motorcycle collection, with Indians, Harleys, and BMWs going back to the 1920s. The owner must have a million miles of motorcycling under his belt, having traversed the Baja peninsula multiple times, riding all the way to the tip of South America, and covering huge chunks of Asia from Thailand to Mongolia to Vladivostok. He just got back from a 5000-mile ride through Canada.
+We're standing in the midst of an impressive vintage motorcycle collection, with Indians, Harleys, and BMWs going back to the 1920s. The owner must have a million miles of motorcycling under his belt, having traversed the Baja peninsula multiple times, riding all the way to the tip of South America, and covering huge chunks of Asia from Thailand to Mongolia to Vladivostok. In a remote yurt in Asia he ate a goat's eyeball in a homemade stew before joining the whole host family in their only bed, spooning one another. He just got back from a 5000-mile ride through Canada.
 
 "You have pants?"<br/>
 "Yeah, Aerostitch pants."<br/>
 "You have a jacket?"<br/>
 "Yeah, perforated."<br/>
 "With real pads?"<br/>
-"Yeah. Full face helmet."<br/>
+"Yeah."<br/>
+"Elbows?"<br/>
+"Mmm-hmm."<br/>
+"Shoulders?."<br/>
+"Yep. Full face helmet."<br/>
 "Bluetooth? You a Cardo or SENA guy?"<br/>
-"Yes, Cardo, because my in-laws have it."<br/>
+"Cardo, because my in-laws have it."<br/>
 "Satellite phone?"<br/>
 "GPS rescue beacon, for hikers."<br/>
 "Helicopter insurance?"<br/>
@@ -54,4 +59,16 @@ We're standing in the midst of an impressive vintage motorcycle collection, with
 I stare back blankly.
 
 "And no Bluetooth or anything. It's too distracting."
+
+# Day 1: San Jose --> Sacramento
+Memories:
+1. Winding up the hills of the Twin Peaks neighborhood, circling the Sutro Tower, and coming downhill with the Golden Gate Bridge in the background.
+2. Taking a founders' call from the picnic area of Blue Heron Lake in Golden Gate Park.
+3. Crossing the Bridge
+4. Traversing the marshlands along Highway 37. A deep channel snakes through the shallows of a roadside creek.
+5. Filtering through backed-up interstate traffic for hours.
+6. The new cruise control is **perfect**.
+
+# Day 2: Down Day in Sacramento
+
 
