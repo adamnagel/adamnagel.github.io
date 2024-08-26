@@ -42,7 +42,7 @@ We're standing in the midst of an impressive vintage motorcycle collection, with
 
 --
 
-"Any advice?" I ask the maintenance department manager. He's just shared some notes from the shop's thorough inspection of the bike.
+"Any advice for the trip?" I ask the maintenance department manager. We've just talked through the notes from the shop's thorough inspection of the bike.
 
 "Avoid the riff-raff."
 
@@ -50,15 +50,15 @@ We're standing in the midst of an impressive vintage motorcycle collection, with
 
 "Mmmm... both," he replies.
 
-"It's been a long time since I did a long ride," he continues. "Back when I used to ride back to Chicago."
+"It's been a long time since I did a long trip," he continues. "Back when I used to ride back to Chicago."
 
-"What's your preferred route?" I ask. I'm looking for route tips.
+"What's your preferred route?" I ask. I'm looking for advice on the most interesting roads.
 
 "Super slab (interstate), all the way. 1000 miles a day, 2 1/2 days," he replies.
 
 I stare back blankly.
 
-"And no Bluetooth or anything. It's too distracting."
+"And no Bluetooth or anything. Too distracting."
 
 # Day 1: San Jose --> Sacramento
 Memories:
@@ -73,3 +73,11 @@ Memories:
 # Day 2: Down Day in Sacramento
 
 
+# Day 3: Sacramento to Tahoe (via Golden Lake)
+Memories:
+1. The smooth morning air heading north on CA-90, passing groves of olive trees stretching across the flat plain.
+2. The prominent, but isolated, volcanic area on the horizon near Yuba City.
+3. Weaving through deep river valleys with postcard-perfect mountain streams.
+4. Casually looking behind me, being instantly astonished by the view, and immediately pulling over to have a better look.
+5. Riding across a high, flat plain among rounded mountain peaks, with hundreds of cattle and horses grazing on the long, brown grass.
+6. An incredible wall-side parking spot above Emerald Bay.
