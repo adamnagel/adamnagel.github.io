@@ -94,15 +94,14 @@ Memories:
 8. Looking in the mirror and seeing nothing but a straight line going off into the vanishing point.
 9. Not seeing anybody at all for 10+ minutes.
 10. Tapping the cruise control, putting my feet on the passenger pegs, and resting my chest on the tank bag.
-11. Massive, massive desolate valleys ringed by mountains.
-12. My attention and interest never wavered for a minute, despite the monotony. What an incredible and beautiful landscape.
-13. Getting in to Great Basin NP as the sun is setting and praying there'll be an available campsite. The gravel road is tricky and washboarded, and the ABS light keeps blinking. I almost dump the bike turning around after missing the campground entrance, where the turn was ambiguously marked. There is a site: #9. I'm too excited to sleep. It was a 12-hour day.
+11. Massive, massive desolate basins ringed by mountains.
+12. My attention and interest never wavered for a minute, despite the monotony. What an incredible, beautiful, and awe-inspiring landscape.
+13. Getting in to Great Basin NP as the sun is setting and praying there'll be an available campsite. The gravel road is tricky and washboarded, and the ABS light keeps blinking. I almost dump the bike turning around after missing the campground entrance, where the turn was ambiguously marked. There is an open site: #9. I'm too excited to sleep. It was a 12-hour day.
 
 # Day 5: Great Basin NP to Bryce
 1. "Not going to be too, too hot today," says the park ranger. The forecast high is 88.
 2. This little town sure has a lot of rodeo champions, according to the sign. And they all have the same last name.
 3. Come through a mountain pass. See a road that stretches 20 miles into the distance in a perfectly straight line, to another mountain pass. Sometimes the road kinks in a different direction at the center of the basin, and goes in a straight line to a different mountain pass. Repeat for 2 days.
-
 
 # Day 6: Bryce to Moab
 1. As I approach the rim of Bryce Canyon before dawn, I see a family sitting at a bench, silhouetted against a yellow sky. The color and scene changes every few minutes until the sun finally peep over the horizon.
@@ -118,3 +117,19 @@ Memories:
 11. The cruise control continues to be a godsend.
 12. In a remote part of south-central Utah, I pass a guy who's doing about 65, uphill, in a Vespa. I figure it must be souped-up, and he's Doing A Thing (as am I).
 
+# Day 7: Moab to Carbondale
+1. Coming through the towering, deep-red walls of the Colorado River canyon east of Moab, the 75-minute epic song "Dopesmoker" by Sleep comes on. As I pop up above the canyon into the flatter, barren wasteland leading into Colorado, the brutal monotony of the song perfectly matches the landscape.
+2. There's a sign on the interstate that says "WATCH FOR EAGLES ON HIGHWAY" and that's interesting.
+2. Headed up to Grand Mesa from Grand Junction, there are isolated rainclouds visible tens of miles away all across the horizon. The clouds take on the appearance of giant jellyfish, with bright white funnels underneath their dark bottoms.
+4. Sitting on the motorcycle just feels normal now. Feels like being in office chair or something -- everything is within arm's reach and I know it instinctively.
+3. The Days Inn in Carbondale is the first place I've felt like the bike could get stolen or vandalized.
+5. Under ~40mph, the bike has a slight "lurching" feeling to it, unsteadily holding back like the brake has been lightly tapped, at about 0.5Hz. Is it a mechanical problem? Gusts of wind?
+6. This part of Colorado seems to have it all. You have the desert, with its red rocks and interesting formations, (New) Mexican cuisine and culture, and the mountains nearby with forests and ski areas.
+
+# Day 8: Carbondale to Colorado Springs
+1. There's a 3-day concert festival in Aspen this Labor Day Weekend, so there was a steady stream of traffic against me, headed into town along the winding mountain roads.
+2. At Independence Pass there was a group of 3 GoldWing riders positioning and re-positioning their bikes for a photo-op. It wasn't clear when they'd be done, so I parked on the other side of the sign to get my own photo and move on. One rider decided to make his 3rd or 4th repositioning pass and grumbled about my bike's position. I started to push a bit out of the way, but he ended up grinding the exhaust on the edge of the pavement getting by me.
+3. The Aspen airport is crazy. They only use one end of the runway. So a plane will take off and then quickly change heading, and another aircraft will come in from the same direction to land. The traffic splits between different forks of the valley.
+4. Thought about going up Pikes Peak as I passed it this afternoon, but there was a rainstorm on the summit. The last hour getting into Colorado Springs I was mostly obsessed with beating the rain, which I did.
+5. The area where the wide and golden plain meets the Collegiate Peaks is hard to beat for visual drama.
+6. Once the rain was done, around sunset, the sky cleared up completely. Not a cloud to be seen.
