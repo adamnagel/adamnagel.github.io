@@ -133,3 +133,24 @@ Memories:
 4. Thought about going up Pikes Peak as I passed it this afternoon, but there was a rainstorm on the summit. The last hour getting into Colorado Springs I was mostly obsessed with beating the rain, which I did.
 5. The area where the wide and golden plain meets the Collegiate Peaks is hard to beat for visual drama.
 6. Once the rain was done, around sunset, the sky cleared up completely. Not a cloud to be seen.
+
+# Day 9: Down Day in Colorado Springs
+
+# Day 10: Pikes Peak
+
+
+# Day 11: Colorado Springs to Hutchinson
+1. My bags have gotten easier and easier to pack over course of the trip, in that I no longer have to force zippers shut. It's not clear to me whether this is due to better efficiency, the bags stretching out, or my occasionally leaving stuff behind. Or some combination.
+2. The road out of Colorado Springs is straight as an arrow, and perfectly aligned with Pikes Peak. Thus, in my rearview I can see the peak get steadily smaller and smaller until it vanishes.
+3. I've never gone 50 miles without turning the handlebars before, but today I had several opportunities.
+4. In a particularly dusty bit of prairie, there were at least 5 tall, thin dust devils spinning in the fields alongside the road.
+5. This is the first day where the limitations of a small bike and windscreen became apparent. At 75mph on the prairie, there's a lot of wind, and my neck starts to hurt. A stiffer posture is needed with the arms in order to react to sideways gusts of wind, so my arms begin to hurt as well. At the end of the day, my hands are numb from vibration and grip, which hasn't happened yet on this trip.
+6. The landscape is so monotonous that the only way I can tell that I'm making progress is that "West Kansas Growers' Association" signs give way to "Mid-State Co-Op" signs.
+7. Somewhere along the way there were three 90-degree turns in quick succession, and it felt like a divine revelation. 
+8. Taking a left turn from a stop at a 4-way traffic light near Hutchinson, I nearly dump the bike. I think the rear tire slipped on some gravel or dust in the intersection, and I was taking the turn in 1st gear. My left foot shot out to the street for stabilization, and I'm not sure if that's what saved me or not.
+
+
+# Day 12: Hutchinson to Fayetteville
+1. So far in Kansas there have been large grain elevators in each town, along the train tracks. But Hutchinson's are huge. There are a few of them and each is several football fields long and towers above the city. 
+2. Coming southeast from Hutchinson, past the Flint Hills, I seem to lose a lot of elevation coming down into Oklahoma and Arkansas. This must be where you step down from the high plains.
+3. The landscape of eastern Oklahoma and NW Arkansas is so familiar, and similar to the landscape south of Nashville, that it never occurs to me to take a photo. It all looks and seems "normal" and not noteworthy. But to someone coming from the plains or the desert, they'd be taken by how green everything is.
