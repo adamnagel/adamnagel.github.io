@@ -128,7 +128,7 @@ Memories:
 
 # Day 8: Carbondale to Colorado Springs
 1. There's a 3-day concert festival in Aspen this Labor Day Weekend, so there was a steady stream of traffic against me, headed into town along the winding mountain roads.
-2. At Independence Pass there was a group of 3 GoldWing riders positioning and re-positioning their bikes for a photo-op. It wasn't clear when they'd be done, so I parked on the other side of the sign to get my own photo and move on. One rider decided to make his 3rd or 4th repositioning pass and grumbled about my bike's position. I started to push a bit out of the way, but he ended up grinding the exhaust on the edge of the pavement getting by me.
+2. At Independence Pass there was a group of 3 Goldwing riders positioning and re-positioning their bikes for a photo-op. It wasn't clear when they'd be done, so I parked on the other side of the sign to get my own photo and move on. One rider decided to make his 3rd or 4th repositioning pass and grumbled about my bike's position. I started to push a bit out of the way, but he ended up grinding the exhaust on the edge of the pavement getting by me.
 3. The Aspen airport is crazy. They only use one end of the runway. So a plane will take off and then quickly change heading, and another aircraft will come in from the same direction to land. The traffic splits between different forks of the valley.
 4. Thought about going up Pikes Peak as I passed it this afternoon, but there was a rainstorm on the summit. The last hour getting into Colorado Springs I was mostly obsessed with beating the rain, which I did.
 5. The area where the wide and golden plain meets the Collegiate Peaks is hard to beat for visual drama.
